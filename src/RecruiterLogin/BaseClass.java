@@ -33,7 +33,7 @@ public class BaseClass {
 
 		return d.findElement(By.cssSelector(cssSelector));
 	}
-
+//ijshiduxbx
 	public void browserOpen() throws InterruptedException {
 		workingDir = System.getProperty("user.dir");
 		BasicConfigurator.configure();

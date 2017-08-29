@@ -15,7 +15,7 @@ public class calling {
 		i.logIn();
 
 	}
-//uyhgfyhskjd
+
 	@Test
 	public void g() throws Exception {
 //		ii.dashBoard();
