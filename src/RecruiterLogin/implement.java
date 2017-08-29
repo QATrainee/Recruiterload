@@ -24,7 +24,6 @@ public class implement extends BaseClass {
 		 */
 		 d.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 			d.navigate().refresh();	
-	//ksjdh
 		
 		Properties prop;
 		FileInputStream fileInput = new FileInputStream(workingDir + "\\Resources\\Dashboard.properties");
