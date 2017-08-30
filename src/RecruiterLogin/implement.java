@@ -235,13 +235,13 @@ public class implement extends BaseClass {
 		d.switchTo().defaultContent();
 	}
 
-	public void jobResponse() throws Exception {
+	/*public void jobResponse() throws Exception {
 
 		/**
 		 * @author Santhalakshmi work name :Jobresponse
 		 */
 
-		File file = new File(workingDir + "\\Resources\\jobresponse.properties");
+		/*File file = new File(workingDir + "\\Resources\\jobresponse.properties");
 		FileInputStream fileInput;
 		fileInput = new FileInputStream(file);
 		Properties prop = new Properties();
@@ -257,7 +257,7 @@ public class implement extends BaseClass {
 		d.switchTo().frame("Iframe4");
 	  //switch to frame 
 
-	}
+	}*/
 
 	public void fetchResume() throws InterruptedException, IOException {
 
